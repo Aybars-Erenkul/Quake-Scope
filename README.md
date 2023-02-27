@@ -7,4 +7,4 @@ Türkiye'de meydana gelen son depremler hakkında sizi bilgilendirmek için mult
 ![QuakeSS](https://user-images.githubusercontent.com/90629653/221688573-d14fe980-de2c-4555-a125-f387d8c90eca.png)
 
 
-<img src="https://user-images.githubusercontent.com/90629653/221688573-d14fe980-de2c-4555-a125-f387d8c90eca.png" width=%50 height=%50 />
+<img src="https://user-images.githubusercontent.com/90629653/221688573-d14fe980-de2c-4555-a125-f387d8c90eca.png" style="max-width: 50%; />
