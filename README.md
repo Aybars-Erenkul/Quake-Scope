@@ -8,3 +8,12 @@ Türkiye'de meydana gelen son depremler hakkında sizi bilgilendirmek için mult
 
 
 <img src="https://user-images.githubusercontent.com/90629653/221688573-d14fe980-de2c-4555-a125-f387d8c90eca.png" width="576" height="384" />
+
+## Requirements
+
+``` bash
+beautifulsoup4==4.11.2
+gTTS==2.3.1
+PyQt6==6.4.2
+requests==2.28.2
+```
