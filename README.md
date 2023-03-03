@@ -1,4 +1,6 @@
 # Quake-Scope
+![Made With Python](http://ForTheBadge.com/images/badges/made-with-python.svg) ![Made with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
 A multi-threaded python program to notify you about recent earthquakes happening in Turkey. Latest Earthquake will be announced with audio using gTTS API. 
 
 
